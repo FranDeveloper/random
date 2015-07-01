@@ -1,0 +1,2 @@
+Proyecto para aprender a utilizar GITHUB, este p2p Obligatorio se corresponde al Modulo 5. Gestión de versiones de proyectos con git y GITHUB; Proyecto, Espacio de Trabajo y Versiones (Commit); Arboles y Ramas de un proyecto; Repositorios Remoto y colaboración a través de GITHUB del curso Desarrollo de servicios en la nube con HTML5, Javascript y node.js
+La licencia la he adaptado de la de Jquery.
